@@ -1,0 +1,7 @@
+.. _percenta:
+
+Percentá
+=========
+
+Cvičenia
+--------
